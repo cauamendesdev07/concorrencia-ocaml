@@ -1,0 +1,13 @@
+_build/
+
+*.merlin
+.opam/
+
+*.log
+*.tmp
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
